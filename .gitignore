@@ -1,0 +1,40 @@
+# Python
+*.py[cod]
+*.so
+*.egg
+*.egg-info
+dist
+build
+__pycache__
+*.pyo
+*.pyd
+*.pyd
+
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Editor/IDE
+.vscode/
+*.swp
+*.swo
+.idea/
+*.iml
+
+# PyInstaller
+*.spec
+dist/
+build/
+__pycache__/
+
+# Logs
+*.log
+
+# System files
+.DS_Store
+Thumbs.db
